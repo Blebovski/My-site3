@@ -48,7 +48,7 @@ main {
      grid-template-rows: auto auto auto auto auto auto auto;
      gap: 20px;
     padding: 20px 0;
-    
+    background-color: gray;
 }
 
 .main-section {
@@ -104,7 +104,7 @@ position: absolute;
 
 }
 .work-section h2 {
-  color: cornsilk;
+  color:  rgb(73, 68, 48);
 }
 .work-items {
     display: grid;
@@ -126,7 +126,7 @@ position: absolute;
   grid-column: 1 / span 2;
 }
 .myWorkPlace {
-  color: cornsilk;
+  color:  rgb(73, 68, 48);
 }
 .myWorkItems {
   display: grid;
@@ -191,7 +191,7 @@ position: absolute;
 
  .circle-container h2{
   margin-bottom: 10px;
-  color: cornsilk;
+  color:  rgb(73, 68, 48);
  }
 
  .circle-items {
@@ -215,7 +215,7 @@ position: absolute;
      text-align: center;
 }
 .contact-section h2 {
-  color: cornsilk;
+  color: rgb(73, 68, 48);
 }
  .secret-section {
     grid-row: 6 / span 1;
